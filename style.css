@@ -1,0 +1,16 @@
+.inner {
+    display: flex;
+    align-items: center;
+}
+
+.fon {
+    background-color:aqua;
+}
+
+.newFon {
+    background-color: tomato;
+}
+
+img {
+    width: 100%;
+}
